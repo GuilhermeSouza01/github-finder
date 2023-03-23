@@ -7,7 +7,7 @@ const UserSearch = () => {
 
   const { users, dispatch, searchUsers, clearUsers } =
     useContext(GithubContext);
-  //   const { setAlert } = useContext(AlertContext);
+  const { setAlert } = useContext(AlertContext);
 
   const handleChange = (e) => setText(e.target.value);
 
@@ -18,7 +18,7 @@ const UserSearch = () => {
       setAlert("Please enter something", "error");
     } else {
       searchUsers(text);
-      //   dispatch({ type: "GET_USERS", payload: users });
+      // dispatch({ type: "GET_USERS", payload: users });
 
       setText("");
     }
