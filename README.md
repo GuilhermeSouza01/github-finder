@@ -7,7 +7,7 @@ O app tem a funcionalidade de buscar usuarios do github, mostrar seu perfil comp
 
 ### Home
 
-![Tela da aplicação](image.png)
+![Tela da aplicação](C:\Users\Gui_G\Documents)
 
 ## Instalação
 
