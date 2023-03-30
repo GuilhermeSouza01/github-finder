@@ -43,7 +43,7 @@ Para executar o front-end do projeto.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React](https://pt-br.reactjs.org/)
+- [React](https://react.dev/)
 - [axios](https://axios-http.com/ptbr/)
 - [Tailwind](https://tailwindcss.com)
 
